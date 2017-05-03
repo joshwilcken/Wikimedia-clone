@@ -1,0 +1,57 @@
+.text-container {
+    display: flex;
+    flex-flow: column;
+    padding: 5px 165px;
+    text-align: justify;    
+}
+p {
+    font-family: sans-serif;
+    font-size: 19.5px;
+    line-height: 1.5;
+    margin-bottom: 5px;
+}
+a {
+    text-decoration: none;
+}
+.linkContainer a {
+    text-decoration: none;
+    margin: 0 72px;
+}
+
+.linkContainer {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+a:visited {
+    text-decoration: none;
+}
+p span {
+    font-weight: bold;
+    }
+a:hover {
+    text-decoration: underline;
+}
+.welcome {
+    text-align: right;
+    font-weight: bold;
+}
+img {
+    height: 164px;
+    width: 135px;
+}
+.endstatement {
+    text-align: center;
+    font-size: 12px;
+}
+hr {
+    width: 80%;
+    margin: 0 auto;
+}
+footer {
+    margin-top: 10px;
+    text-align: center;
+}
+.terms {
+    margin-right: 10px;
+}
